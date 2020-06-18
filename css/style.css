@@ -734,8 +734,8 @@ footer{
 		width: 100%;
 	}
 
-	.feed-form-form {
-
+	.feed-form-form > input:nth-of-type(2){
+		padding: 0
 	}
 
 	.feed-form-form > input, .feed-form-form > textarea, .feed-form-form > button {
@@ -743,6 +743,10 @@ footer{
 		max-width: 100%;
 		padding: 0 1vw;
 		margin-right:0;
+	}
+
+	.feed-form-form > textarea {
+		width: 97%;
 	}
 
 	.feed-form-form > button {
