@@ -739,7 +739,7 @@ footer{
 	}
 
 	.feed-form-form > input, .feed-form-form > textarea, .feed-form-form > button {
-		width: 98%;
+		width: 100%;
 		max-width: 100%;
 		padding: 0 1vw;
 		margin-right:0;
