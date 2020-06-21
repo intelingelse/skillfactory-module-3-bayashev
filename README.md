@@ -1,2 +1,5 @@
 # skillfactory-module-3-bayashev
-figma site
+Figma site  
+  
+Student name: Bayashev Ashim  
+Group: PWS-29  
